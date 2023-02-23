@@ -30,3 +30,7 @@ commit "C3"
 ## Merge squash
 1. Hago el primer commit con el `merge --squash colaborador`
 2. Hago el segundo commit con el `merge --squash lider`
+
+## Limpio historial
+1. borro las ramas de colaborador y lider con `git branch -d <nombre-rama>`
+2. Hago un nuevo commit y lo subo a gh
