@@ -21,4 +21,12 @@ compruebo que estoy en la rama correcta `git branch`
 3. Añado primer metodo a la clase Metodos y hago commit "C2"
 4. Modifico el metodo creado anteriormente y hago un nuevo y ultimo 
 commit "C3"
+
+## Nueva rama del lider - **lider**
+1. Me posiciono en la rama master y creo una nueva rama llamada lider
+2. Creo una clase MetodoLider y hago un commit "L1"
+3. primer metodo y commit "L2" y despues lo mismo con "L3"
    
+## Merge squash
+1. Hago el primer commit con el `merge --squash colaborador`
+2. Hago el segundo commit con el `merge --squash lider`
