@@ -8,12 +8,17 @@
    git add .
    git commit -m "A"
     ````
-## Segundo commit y nueva rama
+## Segundo commit y nueva rama - **master**
 1. inicio y hago commit `git commit -m "B"`. Compruebo que he 
 hecho dos correctamente.
 2. Creo la segunda rama `git branch colaborador` y
 me muevo a ella `git switch colaborador`. Finalmente 
 compruebo que estoy en la rama correcta `git branch`
-3. 
 
+## Rama colaborador - primeros commits -  **colaborador**
+1. creo una nueva clase donde ire implementando las nuevas modificaciones
+2. Añado y hago commit llamado: "C1"
+3. Añado primer metodo a la clase Metodos y hago commit "C2"
+4. Modifico el metodo creado anteriormente y hago un nuevo y ultimo 
+commit "C3"
    
