@@ -14,5 +14,8 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Segundo commit en la main");
         System.out.println("otra implementacion");
+        MusicTest1 obx = new MusicTest1();
+        obx.play();
     }
+
 }
